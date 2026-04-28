@@ -14,7 +14,7 @@ Projetos em destaque:
 
 • Blog com DOM — Website interativa com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
 
-(em breve mais projetos práticos e completos)
+(em breve mais projetos)
 
 --
 

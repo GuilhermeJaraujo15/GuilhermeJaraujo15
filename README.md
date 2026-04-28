@@ -1,4 +1,4 @@
-Olá, eu sou o Guilherme Jorge de Araújo
+Olá, eu sou o Guilherme Jorge de Araujo
 
 Desenvolvedor em formação | HTML, CSS, JavaScript, SQL...
 

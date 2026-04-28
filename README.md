@@ -10,7 +10,7 @@ Desenvolvedor em formação | HTML, CSS, JavaScript, SQL...
 
 Projetos em destaque:
 
-• Portfólio Expositivo — Página para apresentação de trabalhos > 
+• Portfólio Expositivo — Página para apresentação de trabalhos > https://guilhermejaraujo15.github.io/PortfolioExpositivo/ 
 
 • Landing Page com DOM — Website interativa com ênfase em JavaScript  >  
 

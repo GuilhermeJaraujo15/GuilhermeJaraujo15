@@ -12,7 +12,7 @@ Projetos em destaque:
 
 • Portfólio Expositivo — Página para apresentação de trabalhos > https://guilhermejaraujo15.github.io/PortfolioExpositivo/ 
 
-• Landing Page com DOM — Website interativa com ênfase em JavaScript  >  
+• Blog com DOM — Website interativa com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
 
 (em breve mais projetos práticos e completos)
 

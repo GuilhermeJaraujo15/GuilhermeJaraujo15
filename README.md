@@ -18,6 +18,6 @@ Projetos em destaque:
 
 --
 
-Contato
+Contato:
 
-LinkedIn: https://www.linkedin.com/in/guilherme-jorge-de-araujo-
+Email: guilherme.j.araujo7@aluno.senai.br

@@ -14,7 +14,7 @@ Projetos em destaque:
 
 • Blog com CRUD — Website interativa com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
 
-• Canal de Suporte HelpOn — https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
+• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
 
 (em breve mais projetos)
 

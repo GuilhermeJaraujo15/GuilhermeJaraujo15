@@ -1,6 +1,6 @@
 Olá, eu sou o Guilherme Jorge de Araujo
 
-Desenvolvedor em formação | HTML, CSS, JavaScript, SQL...
+Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, React, Tailwind...), JavaScript, SQL...
 
 --
 

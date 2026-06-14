@@ -24,4 +24,3 @@ Contato:
 
 Email: guilherme.j.araujo7@aluno.senai.br
 
-<img width="6" height="7" alt="image" src="https://github.com/user-attachments/assets/7c0102aa-4aea-40ed-ae28-7e45ab8c2f28" />

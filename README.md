@@ -12,7 +12,7 @@ Projetos em destaque:
 
 • Portfólio Expositivo — Página para apresentação de trabalhos > https://guilhermejaraujo15.github.io/PortfolioExpositivo/ 
 
-• Blog com CRUD — Website interativa com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
+• Blog com CRUD — Website interativo com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
 
 • Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
 

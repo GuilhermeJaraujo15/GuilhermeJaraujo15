@@ -30,7 +30,7 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 
 Connect with Me
 
-Email:[guilherme.j.araujo7@aluno.senai.br] (mailto:guilherme.j.araujo7@aluno.senai.br)
+Email: guilhermejaraujo15@gmail.com
 
 *PT*:
 
@@ -58,7 +58,7 @@ Projetos em destaque:
 
 Contato:
 
-Email: guilherme.j.araujo7@aluno.senai.br
+Email: guilhermejaraujo15@gmail.com
 
 
 

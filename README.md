@@ -1,33 +1,3 @@
-*PT*:
-
-Olá, eu sou o Guilherme Jorge de Araujo
-
-Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, Tailwind...), JavaScript, SQL...
-
---
-
-• Atualmente estou explorando diferentes áreas da tecnologia com foco em Desenvolvimento Web, mas também expandindo conhecimentos em Dados, Inteligência Artificial, Cloud e Hardware.
-
-• Busco evoluir constantemente como desenvolvedor, aplicando na prática o que aprendo e construindo projetos cada vez mais completos.
-
-Projetos em destaque:
-
-• Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
-
-• Blog com CRUD — Website interativo com ênfase em JavaScript  >  [Veja aqui](https://guilhermejaraujo15.github.io/Blog-Senai/)
-
-• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/)
-
-(em breve mais projetos)
-
---
-
-Contato:
-
-Email: guilherme.j.araujo7@aluno.senai.br
-
-
-
 *EN*:
 
 Hi, I'm Guilherme Jorge de Araujo 
@@ -60,5 +30,35 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 
 Connect with Me
 
-Email:[guilherme.j.araujo7@aluno.senai.br](mailto:guilherme.j.araujo7@aluno.senai.br)
+Email:[guilherme.j.araujo7@aluno.senai.br] (mailto:guilherme.j.araujo7@aluno.senai.br)
+
+*PT*:
+
+Olá, eu sou o Guilherme Jorge de Araujo
+
+Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, Tailwind...), JavaScript, SQL...
+
+--
+
+• Atualmente estou explorando diferentes áreas da tecnologia com foco em Desenvolvimento Web, mas também expandindo conhecimentos em Dados, Inteligência Artificial, Cloud e Hardware.
+
+• Busco evoluir constantemente como desenvolvedor, aplicando na prática o que aprendo e construindo projetos cada vez mais completos.
+
+Projetos em destaque:
+
+• Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
+
+• Blog com CRUD — Website interativo com ênfase em JavaScript  >  [Veja aqui](https://guilhermejaraujo15.github.io/Blog-Senai/)
+
+• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/)
+
+(em breve mais projetos)
+
+--
+
+Contato:
+
+Email: guilherme.j.araujo7@aluno.senai.br
+
+
 

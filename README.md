@@ -1,4 +1,4 @@
-PT:
+*PT*:
 
 Olá, eu sou o Guilherme Jorge de Araujo
 
@@ -12,11 +12,11 @@ Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, Tailwind...), Java
 
 Projetos em destaque:
 
-• Portfólio Expositivo — Página para apresentação de trabalhos > https://guilhermejaraujo15.github.io/PortfolioExpositivo/ 
+• Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
 
-• Blog com CRUD — Website interativo com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
+• Blog com CRUD — Website interativo com ênfase em JavaScript  >  [Veja aqui](https://guilhermejaraujo15.github.io/Blog-Senai/)
 
-• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
+• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/)
 
 (em breve mais projetos)
 
@@ -26,20 +26,22 @@ Contato:
 
 Email: guilherme.j.araujo7@aluno.senai.br
 
-EN:
+
+
+*EN*:
 
 Hi, I'm Guilherme Jorge de Araujo 
 
 Aspiring Full-Stack Developer | HTML5, CSS3, JavaScript (ES6+), Modern Frameworks (Angular, Tailwind CSS), SQL
 
----
+--
 
 About Me
 
 currently exploring diverse technology domains with a primary focus on **Web Development**, while expanding my knowledge in Data Science, Artificial Intelligence, Cloud Computing, and Hardware.
 Driven by continuous professional growth, applying theoretical concepts to real-world applications and building complex, scalable software projects.
 
----
+--
 
 Featured Projects
 
@@ -54,7 +56,7 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 
 *(More innovative projects coming soon...)*
 
----
+--
 
 Connect with Me
 

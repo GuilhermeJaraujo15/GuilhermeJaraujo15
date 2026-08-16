@@ -16,6 +16,15 @@ Projetos em destaque:
 
 • Blog com CRUD — Website interativo com ênfase em JavaScript  >  https://guilhermejaraujo15.github.io/Blog-Senai/
 
+• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
+
+(em breve mais projetos)
+
+--
+
+Contato:
+
+Email: guilherme.j.araujo7@aluno.senai.br
 
 EN:
 
@@ -50,15 +59,4 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 Connect with Me
 
 Email:[guilherme.j.araujo7@aluno.senai.br](mailto:guilherme.j.araujo7@aluno.senai.br)
-
-
-• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/
-
-(em breve mais projetos)
-
---
-
-Contato:
-
-Email: guilherme.j.araujo7@aluno.senai.br
 

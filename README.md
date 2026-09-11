@@ -16,13 +16,13 @@ Driven by continuous professional growth, applying theoretical concepts to real-
 Featured Projects
 
 Expository Portfolio — A dedicated web application showcasing my technical work and projects.  
-[View Live Demo](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
-
-METAR Lookup and Decoder — Recommended for Aviation Enthusiasts.
-[View Live Demo](https://github.com/GuilhermeJaraujo15/DecMET.git))
+[View Live Demo](https://portfolioexpositivo.vercel.app/)
 
 helpOn Support Channel — A dynamic complaint and ticketing system architecture built with AngularJS for FlightOn.  
-[View Live Demo](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/ )
+[View Live Demo](https://help-on-pi.vercel.app/)
+
+METAR Lookup and Decoder — Recommended for Aviation Enthusiasts.
+[View Live DEmo](decmet.com.br)
 
 *(More innovative projects coming soon...)*
 
@@ -46,11 +46,11 @@ Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, Tailwind...), Java
 
 Projetos em destaque:
 
-• Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
+• Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://portfolioexpositivo.vercel.app/)
 
-• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/)
+• Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://help-on-pi.vercel.app/)
 
-• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](https://github.com/GuilhermeJaraujo15/DecMET.git))
+• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](decmet.com.br))
 
 (em breve mais projetos)
 

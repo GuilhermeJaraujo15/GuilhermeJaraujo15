@@ -22,7 +22,7 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 [View Live Demo](https://help-on-pi.vercel.app/)
 
 METAR Lookup and Decoder — Recommended for Aviation Enthusiasts.
-[View Live DEmo](decmet.com.br)
+[View Live Demo](decmet.com.br)
 
 *(More innovative projects coming soon...)*
 

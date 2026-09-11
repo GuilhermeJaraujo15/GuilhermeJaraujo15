@@ -50,7 +50,7 @@ Projetos em destaque:
 
 • Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://help-on-pi.vercel.app/)
 
-• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](https://decmet.com.br))
+• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](https://decmet.com.br)
 
 (em breve mais projetos)
 

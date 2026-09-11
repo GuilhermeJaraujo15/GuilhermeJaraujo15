@@ -18,8 +18,8 @@ Featured Projects
 Expository Portfolio — A dedicated web application showcasing my technical work and projects.  
 [View Live Demo](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
 
-Interactive Blog with CRUD — A full-featured web application focusing on JavaScript DOM manipulation and state management.  
-[View Live Demo](https://guilhermejaraujo15.github.io/Blog-Senai/)
+METAR Lookup and Decoder — Recommended for Aviation Enthusiasts.
+[View Live Demo](https://github.com/GuilhermeJaraujo15/DecMET.git))
 
 helpOn Support Channel — A dynamic complaint and ticketing system architecture built with AngularJS for FlightOn.  
 [View Live Demo](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/ )
@@ -48,9 +48,9 @@ Projetos em destaque:
 
 • Portfólio Expositivo — Página para apresentação de trabalhos > [Veja aqui](https://guilhermejaraujo15.github.io/PortfolioExpositivo/)
 
-• Blog com CRUD — Website interativo com ênfase em JavaScript  >  [Veja aqui](https://guilhermejaraujo15.github.io/Blog-Senai/)
-
 • Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://guilhermejaraujo15.github.io/HelpOn-AngularJS/#!/)
+
+• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](https://github.com/GuilhermeJaraujo15/DecMET.git))
 
 (em breve mais projetos)
 

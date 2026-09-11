@@ -22,7 +22,7 @@ helpOn Support Channel — A dynamic complaint and ticketing system architecture
 [View Live Demo](https://help-on-pi.vercel.app/)
 
 METAR Lookup and Decoder — Recommended for Aviation Enthusiasts.
-[View Live Demo](decmet.com.br)
+[View Live Demo](https://decmet.com.br)
 
 *(More innovative projects coming soon...)*
 
@@ -50,7 +50,7 @@ Projetos em destaque:
 
 • Canal de Suporte HelpOn — Sistema de Reclamações da FlightOn > [Veja aqui](https://help-on-pi.vercel.app/)
 
-• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](decmet.com.br))
+• Consulta e Decodificador METAR — Recomendado para entusiastas da Aviação > [Veja aqui](https://decmet.com.br))
 
 (em breve mais projetos)
 

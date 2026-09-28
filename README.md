@@ -36,7 +36,7 @@ Email: guilhermejaraujo15@gmail.com
 
 Olá, eu sou o Guilherme Jorge de Araujo
 
-Desenvolvedor em formação | HTML, CSS, Frameworks (Angular, Tailwind...), JavaScript, SQL...
+Desenvolvedor em formação | TailwindCSS • Python • JavaScript • Node.js • Angular • SQL • GitHub • Soluções com IA
 
 --
 

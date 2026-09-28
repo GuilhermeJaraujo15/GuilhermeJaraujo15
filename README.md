@@ -1,4 +1,4 @@
-*EN*:
+(*EN*)
 
 Hi, I'm Guilherme Jorge de Araujo 
 
@@ -32,7 +32,7 @@ Connect with Me
 
 Email: guilhermejaraujo15@gmail.com
 
-*PT*:
+(*PT*)
 
 Olá, eu sou o Guilherme Jorge de Araujo
 

@@ -2,7 +2,7 @@
 
 Hi, I'm Guilherme Jorge de Araujo 
 
-Aspiring Full-Stack Developer | HTML5, CSS3, JavaScript (ES6+), Modern Frameworks (Angular, Tailwind CSS), SQL
+Aspiring Full-Stack Developer | TailwindCSS • Python • JavaScript • Node.js • Angular • SQL • GitHub • Soluções com IA
 
 --
 
